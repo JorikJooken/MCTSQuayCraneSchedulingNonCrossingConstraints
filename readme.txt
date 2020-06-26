@@ -20,7 +20,7 @@ To execute a problem instance, first compile the source code (we assume a linux 
 
 g++ -g -std=c++11 -O2 MCTS.cpp -o MCTSExecutable
 
-Now, run the executable on the toy probleme instance and write the output to a file called "MCTSOutput.txt"
+Now, run the executable on the toy problem instance and write the output to a file called "MCTSOutput.txt"
 
 ./MCTSExecutable < toyInstance.txt > MCTSOutput.txt
 
