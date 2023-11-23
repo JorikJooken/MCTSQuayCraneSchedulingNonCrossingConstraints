@@ -1,4 +1,4 @@
-GitHub repository related to the paper "Jooken, J., Leyman, P., Wauters, T., & De Causmaecker, P. (2023). Exploring search space trees using an adapted version of Monte Carlo tree search for combinatorial optimization problems. Computers & Operations Research, 150:106070"
+GitHub repository related to the paper "Jooken, J., Leyman, P., Wauters, T., & De Causmaecker, P. (2023). Exploring search space trees using an adapted version of Monte Carlo tree search for combinatorial optimization problems. Computers & Operations Research, 150:106070", available at https://www.sciencedirect.com/science/article/pii/S0305054822003008
 
 The source code can be found in the file "MCTS.cpp"
 
